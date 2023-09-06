@@ -35,9 +35,9 @@
             // 
             button1.BackColor = SystemColors.MenuHighlight;
             button1.Font = new Font("Segoe UI", 15F, FontStyle.Regular, GraphicsUnit.Point);
-            button1.Location = new Point(345, 155);
+            button1.Location = new Point(306, 167);
             button1.Name = "button1";
-            button1.Size = new Size(130, 83);
+            button1.Size = new Size(189, 110);
             button1.TabIndex = 0;
             button1.Text = "button1";
             button1.UseVisualStyleBackColor = false;
